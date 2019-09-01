@@ -1,0 +1,18 @@
+	<canvas id="ctx" style = 'position: absolute; left: 0px; top: 0px;' width="1000" height="500" style="border:1px solid #000000;"> </canvas>
+	<script src="questions.js"> </script>
+	<script src="code.js"> </script>
+
+
+	<script> 
+	//display:none mesa sto audio ^^
+	var ctx = document.getElementById("ctx").getContext("2d");
+	/*<audio controls autoplay style = 'position:absolute; right:50px; top: 0px; '>
+	  <source  src="music/One Piece Epic Music.mp3" type="audio/mp3">
+	  Your browser does not support the audio element.
+	</audio>*/
+	
+	choose_level();
+	
+	setInterval(quiz,fps);
+
+	</script> 

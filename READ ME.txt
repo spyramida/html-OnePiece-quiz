@@ -1,0 +1,21 @@
+
+
+
+
+did_u_know.html		: Using did_u_know.js, provides a random one-piece fact
+did_u_know.js		: Array containing random one-piece facts for the did_u_know.html
+
+
+
+clocl_counter.html	: Using the clocl_counter.js calculates the remaining days and hours 
+			  till the airing of the next episode
+clocl_counter.js
+
+
+
+questions.js		: The questions of the quiz
+
+
+
+quiz.html		: the main canvas html
+code.js			: Code for the quiz
